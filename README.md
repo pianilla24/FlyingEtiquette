@@ -2,7 +2,9 @@
 Data about Flying Etiquette for J124
 
 ##Why I choose this question? 
+
 ##What I found intersting about this dataset?
+
 ##What does the chart reveal? 
 
 Someone once told me the following quote: 
